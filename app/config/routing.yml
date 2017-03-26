@@ -1,3 +1,6 @@
-app:
-    resource: "@AppBundle/Controller/"
+presentation_library_rest:
+    resource: "@PresentationLibraryRestBundle/Controller/"
     type:     annotation
+    prefix:   /
+
+

@@ -1,4 +1,0 @@
-services:
-#    presentation_library_rest.example:
-#        class: Presentation\Library\RestBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]

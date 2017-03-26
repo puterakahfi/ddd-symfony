@@ -1,6 +1,12 @@
+presentation_library_app:
+    resource: "@PresentationLibraryAppBundle/Controller/"
+    type:     annotation
+    prefix:   /library/
+
 presentation_library_rest:
     resource: "@PresentationLibraryRestBundle/Controller/"
     type:     annotation
-    prefix:   /
+    prefix:   /library/rest/
+
 
 
